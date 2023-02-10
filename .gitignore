@@ -1,2 +1,3 @@
 MessingAround.ipynb
 garbageENV
+#python3 -m pip install jupyter matplotlib numpy pandas scipy scikit-learn
