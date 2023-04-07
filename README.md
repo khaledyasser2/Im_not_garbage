@@ -1,5 +1,4 @@
-this is hackathon project. yaaaay
-
+Garbage classifier developed for 2023 East Asia GDSC Global Hackathon
 
 Installation
 
